@@ -1,5 +1,6 @@
 streamlit
-chess
-google-generativeai
+python-chess
 stockfish
 python-dotenv
+google-genai
+st-click-detector
