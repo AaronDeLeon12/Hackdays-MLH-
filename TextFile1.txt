@@ -1,0 +1,5 @@
+streamlit
+chess
+google-generativeai
+stockfish
+python-dotenv
