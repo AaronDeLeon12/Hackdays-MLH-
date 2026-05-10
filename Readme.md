@@ -1,8 +1,6 @@
 # Check-a-Mate
-Aaron Flores de León
-Viviana Gozález Cervantes
 AI-powered chess coach built with Streamlit, Stockfish, python-chess, and Gemini.
-
+## Made by Aaron Flores de León and Viviana Gozález Cervantes
 ## Setup
 
 ```bash
